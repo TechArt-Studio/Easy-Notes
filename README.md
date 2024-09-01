@@ -2,7 +2,7 @@
 
 <!--![Air Notes Banner](assets/images/banner.png)-->
 
-# Easy Notes
+# Easy Note
 
 ![GitHub stars](https://img.shields.io/github/stars/Dev-Huang1/Easy-Notes.svg?style=for-the-badge)
 
